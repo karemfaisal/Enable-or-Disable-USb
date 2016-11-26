@@ -25,7 +25,7 @@ if ( $A -eq 1 )
 {
  if(test-path $Path)
  {
-    Set-ItemProperty -path $Path -name start -value 3
+    Set-ItemProperty -path $Path -name start -value 4
  }
 }
 
