@@ -1,7 +1,5 @@
 ﻿#Enable & Disable USB 
-#Part of IHACK Scripting Tutorial
 #Run It As Administrator 
-
 #Coded By Karem Ali
 
 If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole(
